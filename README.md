@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @sg0905
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Certainly! Here's a revised version of your GitHub profile README:
 
-<!---
-sg0905/sg0905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 Hi, I’m Shubham (@sg0905)
+
+👀 I’m interested in Java programming, metaheuristic optimization, algorithms, and software development.
+
+🌱 I’m currently learning advanced techniques in metaheuristics and their applications in solving complex optimization problems.
+
+💞️ I’m looking to collaborate on projects involving Java development, algorithm design, and optimization problems.
+
+📫 How to reach me: Drop a mail on shubhamthe9@gmail.com || LinkedIN id is: https://www.linkedin.com/in/shubhamgupta09/
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy exploring new programming languages and experimenting with different optimization algorithms.
+
+---
+
+
